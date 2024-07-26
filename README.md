@@ -1,1 +1,2 @@
+# README
 This project focuses on identifying crucial clinical, genomic, and environmental factors associated with a specific disease. It utilizes these factors to uncover distinct clusters representing various manifestations of the disease. By integrating and analyzing diverse data sources, the aim is to deepen our understanding of the disease's multifaceted nature and potentially uncover novel insights into its underlying subtypes. Specifically, this workflow is designed to reveal the clinical heterogeneity of Celiac Disease.
